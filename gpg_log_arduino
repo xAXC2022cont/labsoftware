@@ -1,0 +1,16 @@
+[liveuser@localhost Downloads]$ gpg --import arduino_sources_gpg_pubkey.txt 
+gpg: directory `/home/liveuser/.gnupg' created
+gpg: new configuration file `/home/liveuser/.gnupg/gpg.conf' created
+gpg: WARNING: options in `/home/liveuser/.gnupg/gpg.conf' are not yet active during this run
+gpg: keyring `/home/liveuser/.gnupg/secring.gpg' created
+gpg: keyring `/home/liveuser/.gnupg/pubring.gpg' created
+gpg: /home/liveuser/.gnupg/trustdb.gpg: trustdb created
+gpg: key E21188C4: public key "Arduino Packages <support@arduino.cc>" imported
+gpg: Total number processed: 1
+gpg:               imported: 1  (RSA: 1)
+[liveuser@localhost Downloads]$ gpg --verify arduino-1.8.19.tar.xz.asc arduino-1.8.19.tar.xz
+gpg: Signature made Mon 20 Dec 2021 03:57:12 PM UTC using RSA key ID E21188C4
+gpg: Good signature from "Arduino Packages <support@arduino.cc>"
+gpg: WARNING: This key is not certified with a trusted signature!
+gpg:          There is no indication that the signature belongs to the owner.
+Primary key fingerprint: 3265 67C1 C6B2 88DF 32CB  061A 95FA 6F43 E211 88C4
