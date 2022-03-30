@@ -1,0 +1,9 @@
+Victoria HDD
+
+[liveuser@localhost Downloads]$ sha256sum VCR352-3.zip
+a73bd945f6069fbda01f48dbd95fd3bd24060b859c56dd73da7145bf23e464f2  VCR352-3.zip
+[liveuser@localhost Downloads]$ sha256sum VCR35RUS.zip 
+0770b63758fb0028a6a3ab48f6886c662c0486c8b6b05a046685c03e62dae28d  VCR35RUS.zip
+[liveuser@localhost Downloads]$ sha256sum vcr35cd.zip 
+089f84ef08d28fe7037ccbf78ec0a6f5fe6df6636a3da881bbf70e5157401131  vcr35cd.zip
+
