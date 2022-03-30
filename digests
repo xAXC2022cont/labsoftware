@@ -11,3 +11,10 @@ a73bd945f6069fbda01f48dbd95fd3bd24060b859c56dd73da7145bf23e464f2  VCR352-3.zip
 DOS32A
 [liveuser@localhost Downloads]$ sha256sum dos32a-735-bin.zip 
 1b16a3cd147fd5f478d119d50acc33b2f95cd9f157814d83d99f9742f34e10c4  dos32a-735-bin.zip
+
+DOS4GW
+[liveuser@localhost Downloads]$ sha256sum dos4gw.zip 
+6640b947478009f0d5b7737077ecb523c139d3a1686fecdb338be6651d73376a  dos4gw.zip
+
+[liveuser@localhost Downloads]$ sha256sum DOS4GW.EXE 
+dd9f4f342533f99570475b62e53231a468de2e3d83e4fc31e80c27d3a7d6b49c  DOS4GW.EXE
