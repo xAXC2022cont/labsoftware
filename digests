@@ -7,3 +7,7 @@ a73bd945f6069fbda01f48dbd95fd3bd24060b859c56dd73da7145bf23e464f2  VCR352-3.zip
 [liveuser@localhost Downloads]$ sha256sum vcr35cd.zip 
 089f84ef08d28fe7037ccbf78ec0a6f5fe6df6636a3da881bbf70e5157401131  vcr35cd.zip
 
+
+DOS32A
+[liveuser@localhost Downloads]$ sha256sum dos32a-735-bin.zip 
+1b16a3cd147fd5f478d119d50acc33b2f95cd9f157814d83d99f9742f34e10c4  dos32a-735-bin.zip
